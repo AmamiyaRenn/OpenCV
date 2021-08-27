@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "OpenCV-1",
+			"path": "..\\..\\github\\OpenCV-1"
+		}
+	],
+	"settings": {}
+}
